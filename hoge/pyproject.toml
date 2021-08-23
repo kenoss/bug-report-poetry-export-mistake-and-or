@@ -11,5 +11,8 @@ authors = ["keno <keno.ss57@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.6"
 
+gevent = "1.4.0"
+greenlet = "0.4.15"
+
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
